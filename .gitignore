@@ -1,0 +1,6 @@
+*.raw
+*.log
+*.op.raw
+*.net
+*.plt
+*.bak
